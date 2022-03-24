@@ -9,6 +9,7 @@ public class DSU {
     static StringTokenizer st;
     public static void main(String[] args) throws IOException{
         //TODO start here
+
     }
     static String next() throws IOException {
         while (st == null || !st.hasMoreTokens())
